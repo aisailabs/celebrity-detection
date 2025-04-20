@@ -1,0 +1,6 @@
+data/
+*.h5
+*.pt
+*.ckpt
+.ipynb_checkpoints/
+__pycache__/
